@@ -1,5 +1,9 @@
-_site*
+.env
+.DS_Store
+.s3-website.json
+node_modules/
+.idea/
+
+_site
 .sass-cache
 .jekyll-metadata
-*backup/
-.idea/
