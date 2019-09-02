@@ -31,7 +31,7 @@ formcarry: https://formcarry.com/s/Q_RSgY4Zw8d
 disqus: test-apkdzgmqhj
 
 # MailChimp settings
-mailchimp_action: https://gmail.us4.list-manage.com/subscribe/post?u=e05aac82501b3691b33e5a85d&amp;id=45cabbe7e9
+mailchimp_action: https://gmail.us4.list-manage.com/subscribe/post-json?u=e05aac82501b3691b33e5a85d&amp;id=45cabbe7e9
 mailchimp_input: b_e05aac82501b3691b33e5a85d_45cabbe7e9
 
 # Author settings
