@@ -10,4 +10,4 @@ tags:
   - Moon Drinking
   - Kale
 ---
-this is my first post, I hope to make the best out of this platform.
+זה הפוסט הראשון שלי
