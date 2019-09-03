@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "My First Post"
+title: "הפוסט הראשון שלי"
 date: 2019-09-02
-description: "This is my first post"
+description: "זה הפוסט הראשון שלי"
 image: /assets/images/my_first_post.jpg
 author: Uri Shimon
 tags: 
@@ -10,4 +10,4 @@ tags:
 - סקוטלנד
 ---
 הכוונה להעזרת בפלטפורמה הזו לתעד ולשתף חוויות, מחשבות וזיכרונות.
-ולצד זאת, ללמוד קצת web development ולעשות כיף
+ולצד זאת, ללמוד קצת web development ולעשות כיף.
