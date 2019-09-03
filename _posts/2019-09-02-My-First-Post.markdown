@@ -6,8 +6,5 @@ description: "This is my first post"
 image: /assets/images/my_first_post.jpg
 author: Uri Shimon
 tags: 
-  - Dummy Text
-  - Moon Drinking
-  - Kale
 ---
 זה הפוסט הראשון שלי

@@ -12,16 +12,10 @@ url: http://urishimon.com
 twitter_username: thomasvaeth
 default_img: /assets/images/seo.jpg
 social:
-  - name: twitter
-    url: https://twitter.com/thomasvaeth
-  - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
-  - name: linkedin
-    url: https://www.linkedin.com/in/thomasvaeth/
+  - name: facebook
+    url: https://www.facebook.com/uri.shimon.7
   - name: github
-    url: https://github.com/samesies
-  - name: codepen
-    url: https://codepen.io/thomasvaeth/
+    url: https://github.com/shimonuri
 
 # Contact settings
 contact_img: /assets/images/formcarry.JPG
@@ -36,9 +30,9 @@ mailchimp_input: b_e05aac82501b3691b33e5a85d_45cabbe7e9
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+  - name: Uri Shimon
+    bio: Was born in Tel Aviv
+    url: http://urishimon.com
 
 # Pagination settings
 pagination:
