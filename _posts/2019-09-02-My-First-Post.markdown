@@ -6,5 +6,7 @@ description: "This is my first post"
 image: /assets/images/my_first_post.jpg
 author: Uri Shimon
 tags: 
+- טבע
+- סקוטלנד
 ---
 זה הפוסט הראשון שלי
