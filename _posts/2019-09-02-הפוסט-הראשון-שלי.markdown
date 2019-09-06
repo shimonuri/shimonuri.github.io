@@ -5,6 +5,7 @@ date: 2019-09-02
 description: "זה הפוסט הראשון שלי"
 image: /assets/images/my_first_post.jpg
 author: Uri Shimon
+direction: "rtl"
 tags: 
 - טבע
 - סקוטלנד
@@ -12,4 +13,4 @@ tags:
 זה הפוסט הראשון שלי!
 
 ### למה יש את האתר הזה?
-מטרת האתר היא לרכז
+כי 

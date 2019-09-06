@@ -5,8 +5,11 @@
         <img src="{{ post.image }}" alt="{{ post.title }}" data-aos="fade-in" itemprop="image"/>
       </figure>
     {% endif %}
-    <div>
-      <h2 class="posts__text"><span itemprop="description" dir="auto">{{ post.description | strip_html | truncatewords: 35, "" }}</span> - <strong itemprop="name" dir="auto">{{ post.title }}</strong></h2>
+    <div dir="{{ post.direction }}">
+      <center>
+      <h2 class="posts__text"><strong itemprop="name" dir="auto">{{ post.title }}</strong></h2>
+      <h2 class="posts__text"><span itemprop="description" dir="auto">{{ post.description | strip_html | truncatewords: 35, "" }}</span></h2>
+      </center>
     </div>
   </a>
 </article>
