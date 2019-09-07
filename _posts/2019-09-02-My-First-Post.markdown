@@ -3,7 +3,7 @@ layout: post
 title: "My First Post"
 date: 2019-09-02
 description: "One evening I decided to build my own website, here is my first post"
-image: /assets/images/my_first_post.jpg
+image: 
 author: Uri Shimon
 direction: "ltr"
 tags: 
