@@ -10,3 +10,6 @@ subtitle: books and podcasts that I highly recommend!
 
 # Podcasts
 - a very cool podcast
+
+# Movies
+- Dolemite Is My Name
