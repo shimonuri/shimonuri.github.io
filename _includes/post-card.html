@@ -2,7 +2,9 @@
   <a class="posts__link" href="{{ post.url | prepend: site.baseurl }}" itemprop="url">
     {% if post.image %}
       <figure class="posts__img">
-        <img src="{{ post.image }}" alt="{{ post.title }}" data-aos="fade-in" itemprop="image"/>
+        <a href="{{ post.image }}" class="progressive replace">
+            <img src="{{ post.preview_image }}" class="preview" alt="{{ post.title }}" data-aos="fade-in" itemprop="image"/>
+          </a>
       </figure>
     {% endif %}
     <div dir="{{ post.direction }}">
