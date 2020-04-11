@@ -63,9 +63,8 @@ author:
 social-network-links:
   rss: true
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  github: shimonuri
+  twitter: urishimon
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -82,12 +81,12 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
-  linkedin: true
+  facebook: false
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "urishimon.com"  #
 
 # --- Web Statistics Section --- #
 
